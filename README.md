@@ -1,6 +1,6 @@
 # Python-Workshop
 
-Pyhton Workshop Held In Islamic Univercity Of Azad Qom Brach
+Python workshop held in Islamic Azad University of Qom Brach
 
 # Contact Me
 - Email: mhmk.nova@pm.me
