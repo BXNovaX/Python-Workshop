@@ -42,12 +42,8 @@
 
 ### Taking User Input
 
-![[Pasted image 20230821132800.png]]
-
 > Write an application to get user name and prints `Hello Dear {user name}`.
 > Write an application to get two numbers and print multiplied value.
-
-![[Pasted image 20230821132845.png]]
 
 ---
 
