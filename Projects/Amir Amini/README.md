@@ -1,7 +1,3 @@
-# Amir Amini
-
-----
-
-## GITHUB Repo
+# GITHUB Repo
 
 You can visit the final project at: [DoctoVidBot](https://github.com/amirmohamadamini/DoctoVidBot)
